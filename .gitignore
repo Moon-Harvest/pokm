@@ -1,0 +1,3 @@
+# Ignore the png sprites because they'll soon disappear
+# Also, they throttle the git add command!
+original-data-sources/pokemon-sprites/

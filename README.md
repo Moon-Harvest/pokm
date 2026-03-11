@@ -20,4 +20,5 @@ Only pokemon and moves up to generation 9 were included.
 ## Quick Start
 ```bash
 # Clone and run
-go run pokm/main.go
+cd pokm/main.go
+go run main.go
